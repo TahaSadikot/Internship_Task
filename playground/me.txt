@@ -1,0 +1,5 @@
+{{#user}
+Name: Taha Sadikot
+Skills: HTML, CSS, JS, PHP, JavaScript, JQuery, APis, XAMPP, MySql, R
+Email: 19bmiit087@gmail.com
+{{/user}}
